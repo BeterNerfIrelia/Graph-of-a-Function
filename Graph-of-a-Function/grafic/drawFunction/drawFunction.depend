@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1579004518 source:c:\wid\ip - proiect v2\drawfunction\drawfunction\drawfunction.cpp
+	"drawFunction.h"
+
+1579007178 c:\wid\ip - proiect v2\drawfunction\drawfunction\drawfunction.h
+	"../../expressionEvaluator/expressionEvaluator/evaluator/evaluator.h"
+	<graphics.h>
+	<winbgim.h>
+
+1579001716 c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\evaluator\evaluator.h
+	"../tipuri/stivaDouble.h"
+	"../tipuri/stivaString.h"
+	"../tipuri/coada.h"
+	<cctype>
+	<cmath>
+	<algorithm>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1578812401 c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\stivadouble.h
+	"listeDouble.h"
+
+1578812401 c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\listedouble.h
+
+1578812401 c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\stivastring.h
+	"listeString.h"
+
+1578812401 c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\listestring.h
+	<string>
+
+1578812401 c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\coada.h
+	<string>
+	"listeString.h"
+
+1578997079 source:c:\wid\ip - proiect v2\drawfunction\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	"drawFunction/drawFunction.h"
+
+1578812401 source:c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\coada.cpp
+	"coada.h"
+
+1578812401 source:c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\stivadouble.cpp
+	"stivaDouble.h"
+
+1578812401 source:c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\tipuri\stivastring.cpp
+	"stivaString.h"
+
+1579005204 source:c:\wid\ip - proiect v2\expressionevaluator\expressionevaluator\evaluator\evaluator.cpp
+	"evaluator.h"
+
+1579005204 source:c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\evaluator\evaluator.cpp
+	"evaluator.h"
+
+1579001716 c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\evaluator\evaluator.h
+	"../tipuri/stivaDouble.h"
+	"../tipuri/stivaString.h"
+	"../tipuri/coada.h"
+	<cctype>
+	<cmath>
+	<algorithm>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1578812401 c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\stivadouble.h
+	"listeDouble.h"
+
+1578812401 c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\listedouble.h
+
+1578812401 c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\stivastring.h
+	"listeString.h"
+
+1578812401 c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\listestring.h
+	<string>
+
+1578812401 c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\coada.h
+	<string>
+	"listeString.h"
+
+1578812401 source:c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\coada.cpp
+	"coada.h"
+
+1578812401 source:c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\stivadouble.cpp
+	"stivaDouble.h"
+
+1578812401 source:c:\wid\ip - proiect bun\eulaptop\expressionevaluator\expressionevaluator\tipuri\stivastring.cpp
+	"stivaString.h"
+
